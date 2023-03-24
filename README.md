@@ -1,5 +1,5 @@
 # .github
-Common stuff across cristalhq organization
+Common stuff across cloud-incubator organization
 
 ## Usage
 
