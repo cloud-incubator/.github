@@ -23,11 +23,11 @@ on:
         default: 'v0.0.0'
 
 
-# See https://github.com/cristalhq/.github/.github/workflows
+# See https://github.com/cloud-incubator/.github/.github/workflows
 jobs:
   build:
-    uses: cristalhq/.github/.github/workflows/build.yml@v0.4.0
+    uses: cloud-incubator/.github/.github/workflows/build.yml@v0.5.0
 
   vuln:
-    uses: cristalhq/.github/.github/workflows/vuln.yml@v0.4.0
+    uses: cloud-incubator/.github/.github/workflows/vuln.yml@v0.5.0
 ```
